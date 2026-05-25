@@ -8,4 +8,9 @@ for i in range(1,rows+1):
     print(k,end=' ')
 
   print()
-  
+
+  # for pattern2
+  #1
+  #121
+  #12321
+  #1234321
