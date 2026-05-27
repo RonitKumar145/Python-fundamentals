@@ -47,5 +47,8 @@ name ='ronit'
 
 gender ='male'
 
+
+
+
 'hi my name is {} and i am a {}'.format(name,gender)
 #output=hi my name is ronit and i am a male 
