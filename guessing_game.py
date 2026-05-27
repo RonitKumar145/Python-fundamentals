@@ -4,7 +4,7 @@ jackpot = random.randint(1,100)
 
 guess = int(input("guess the jackpot number between 1 and 100: "))
 counter = 1
-while guess != jackpot:
+while guess != jackpot and counter < 10:
     if guess < jackpot:
         print("too low! try again.")
     else:
